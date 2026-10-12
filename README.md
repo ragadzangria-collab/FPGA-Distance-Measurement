@@ -41,3 +41,6 @@ This project implements a real-time **Distance Measurement System** developed on
 1. **Simulation:** Open the project in **ModelSim**, compile the files in the `src` and `tb` directories, and run the testbench to observe distance calculation waveforms.
 2. **Synthesis:** Open the project file in **Intel Quartus Prime**, run full compilation, and program the `.sof` file onto the Cyclone IV FPGA board via USB-Blaster.
 
+## 🎥 System Demo
+[![Watch the video](https://img.shields.io/badge/Watch%20Demo-Click%20Here-red?style=for-the-badge&logo=youtube)]( https://youtu.be/wI2gc-kNnkI?si=vziH5VD4w9EUpLLt)
+

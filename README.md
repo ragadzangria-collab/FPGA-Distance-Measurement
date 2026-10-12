@@ -23,7 +23,7 @@ This project implements a real-time **Distance Measurement System** developed on
 ---
 
 ## 💻 Technologies & Tools
-- **Hardware:** Altera DE2-115 (Cyclone IV) FPGA Board, Ultrasonic Distance Sensor (e.g., HC-SR04)
+- **Hardware:** Altera (Cyclone IV) FPGA Board, Ultrasonic Distance Sensor (e.g., HC-SR04),Blutooth module (HC06)
 - **Language:** VHDL
 - **Protocols:** UART
 - **Development Tools:** Intel Quartus Prime, ModelSim
@@ -33,7 +33,7 @@ This project implements a real-time **Distance Measurement System** developed on
 ## 📁 Repository Structure
 - `src/`               # VHDL Source Files (Ultrasonic Controller, Distance Calculator, UART Tx)
 - `tb/`                # Testbench Files for Simulation and Verification
-- `Project_Report.pdf` # Full design report, schematics & system architecture
+- `Project Report.docx` # Full design report, schematics & system architecture
 - `README.md`          # Project overview and documentation
 
 

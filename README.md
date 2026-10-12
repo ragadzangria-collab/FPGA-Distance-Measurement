@@ -33,7 +33,7 @@ This project implements a real-time **Distance Measurement System** developed on
 ## 📁 Repository Structure
 - `src/`               # VHDL Source Files (Ultrasonic Controller, Distance Calculator, UART Tx)
 - `tb/`                # Testbench Files for Simulation and Verification
-- `Project Report.docx` # Full design report, schematics & system architecture
+- `Project Report.docx` # Full design report, schematics & system architecture in Hebrew
 - `README.md`          # Project overview and documentation
 
 
